@@ -130,3 +130,9 @@ How often have I desired to gather your children together as a hen gathers her b
 See, your house is left to you.
 And I tell you, you will not see me until the time comes when you say, ‘Blessed is the one who comes in the name of the Lord.’”
 
+---
+layout: gallery-frame
+image: /david.jpg
+work: David Mourning for the Death of Absalom
+metadata: "Gustave Doré, 1866"
+---
